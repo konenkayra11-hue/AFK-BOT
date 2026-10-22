@@ -1,14 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "TevhikİleriAFK",
   "bot-account": {
-    "username": "Technoblade",
-    "password": "",
+    "username": "TevhikİleriAFK"
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "tevhikileri.aternos.me",
+    "port": 45928
+    "version": "26.2"
   },
   "position": {
     "enabled": true,
@@ -30,9 +29,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "AFKK",
+        "AFK",
+        "AFKKK"
       ]
     },
     "chat-log": true,
